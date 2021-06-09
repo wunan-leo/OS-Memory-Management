@@ -59,7 +59,7 @@
           label: 'FIFO'
         }, {
           value: 'al_2',
-          label: 'RLU'
+          label: 'LRU'
         }],
         options_ex: [{
           value: 'ex_1',
