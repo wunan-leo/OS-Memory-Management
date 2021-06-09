@@ -111,19 +111,19 @@
 
 ​	选择框界面：
 
-![](https://i0.hdslb.com/bfs/album/2de04c20cdcd0b5e5eccbe53a37acd98f71cf542.png)
+![](https://www.hualigs.cn/image/60c0575b175e1.jpg)
 
 ​	单次执行界面：
 
-![](https://i0.hdslb.com/bfs/album/9554d59fedd3a3e1ffe4e449251d40b0f46f1fad.png)
+![](https://www.hualigs.cn/image/60c0575b5adbb.jpg)
 
 ​	多次执行界面：
 
-![](https://i0.hdslb.com/bfs/album/03fb57fff7128cbb93035b190b901baab06f561a.png)
+![](https://www.hualigs.cn/image/60c0575b6e166.jpg)
 
 ​	执行完成界面：
 
-![](https://i0.hdslb.com/bfs/album/09fceb11b9de92ea1f243259a90f907aaefe9ea8.png)
+![](https://www.hualigs.cn/image/60c0575b9440c.jpg)
 
 ## 六、项目总结
 
